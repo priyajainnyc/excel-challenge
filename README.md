@@ -1,5 +1,5 @@
 # excel-challenge
-This repo contains files pertaining to HW1 for my DataVis class
+Homework 1 for the excel challenge module of Datavis bootcamp
 
 ## Instructions
 - My excel-based work is located in "Priya Jain HW 1 DataVis CrowdfundingBook.xlsx"
