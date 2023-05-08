@@ -1,4 +1,4 @@
-# Homework---1-DataVis
+# excel-challenge
 This repo contains files pertaining to HW1 for my DataVis class
 
 ## Instructions
